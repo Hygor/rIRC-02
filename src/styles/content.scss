@@ -6,7 +6,7 @@
 }
 
 header {
-  span.category {
+  .category {
     display: block;
     margin-top: 2rem;
 
@@ -15,7 +15,7 @@ header {
     color: var(--gray);
   }
 
-  span {
+  strong {
     color: var(--white);
   }
 }
